@@ -1,0 +1,2 @@
+# GIT394-RealStrawberryCupcake
+A recipe for Real Strawberry Cupcakes which uses no artificially flavored gelatin, but only fresh ingredients.  Professor Carrasquilla indicated that mine was an outstanding example of the work she was looking for on the Final Exam! I provided a sketch and a mockup. And, she said I had "Great use of color, it feels fresh and that matched the content." and I scored especially well in the use of Semantic Markup.
