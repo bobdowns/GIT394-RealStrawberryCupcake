@@ -562,9 +562,9 @@ ul {
 	-moz-column-rule: 1px solid #c33; /* Firefox */
 	column-rule: 1px solid #c33;
 	
-	-webkit-column-gap: 25px;
-	-moz-column-gap: 25px;
-	column-gap: 25px;
+	-webkit-column-gap: 100px;
+	-moz-column-gap: 100px;
+	column-gap: 100px;
 }
 
 ol li {
