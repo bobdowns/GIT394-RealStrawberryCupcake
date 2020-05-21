@@ -561,10 +561,6 @@ ul {
 	-webkit-column-rule: 1px solid #c33; /* Chrome, Safari, Opera */
 	-moz-column-rule: 1px solid #c33; /* Firefox */
 	column-rule: 1px solid #c33;
-	
-	-webkit-column-gap: 100px;
-	-moz-column-gap: 100px;
-	column-gap: 100px;
 }
 
 ol li {
